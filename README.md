@@ -7,8 +7,8 @@
 <p align="center"></p>
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=blue"> </p>
 
-<p align="center"><img src="https://img.shields.io/badge/Service-OpenVPN-success.svg"> <img src="https://img.shields.io/badge/Service-Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-Websocket-success.svg"> <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img
-src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://img.shields.io/badge/Service-Trojan TCP-success.svg"> <img src="https://img.shields.io/badge/Service-GRPC-success.svg">
+<p align="center"><img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img
+src="https://img.shields.io/badge/Service-Xray-success.svg">
 
 ## Commands : <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Shell&message=Bash%20Script&color=lightgray">
 
