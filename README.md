@@ -1,4 +1,4 @@
-<h2 align="center">MULTIPORT XRAY, OPENVPN</h2>
+<h2 align="center">MULTIPORT XRAY,OPENVPN</h2>
 
  <h2 align="center"><img src="https://img.shields.io/badge/AutoScript VPN By KONTULKU -blue.svg"></h2>
 
@@ -41,8 +41,6 @@ src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://i
 - fix some problem
 
 
-
- ## Script for Sell Only. Contact owner on Telegram @SandakanVPNTrickster <a href="https://t.me/SandakanVPNTrickster" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
  ## For Buy Script : Contact Telegram @lukavpn <a href="https://t.me/lukavpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
