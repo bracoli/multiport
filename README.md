@@ -20,13 +20,15 @@ src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://i
   ```
 ## Features
 >>> Service & Port
-- OpenSSH                 : 22" 
-- OpenVpn                 : 1194 tcp
-- XRAY  Vmess TLS         : 443"
-- XRAY  Vmess None TLS    : 80"
+- OpenVpn                 : TCP 1194, UDP 2200, SSL 442"
+- Stunnel4                : 789, 777" 
+- Squid Proxy             : 3128, 8080"
+- VLess TCP XTLS          : 443"
 - XRAY  Vless TLS         : 443"
 - XRAY  Vless None TLS    : 8000"
-- Trojan TCP              : 443"
+- XRAY  Vmess TLS         : 443"
+- XRAY  Vmess None TLS    : 80"
+- Trojan TLS              : 443"
 >>> Server Information & Other Features
 - Timezone                : Asia/KL (GMT +8)" 
 - Fail2Ban                : [ON]" 
@@ -36,11 +38,8 @@ src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://i
 - IPv6                    : [OFF]"
 
 ## Info Script Update
-18.09.2022
-- script release
-- fix some problem
-
-
+3.10.2022
+- Update Telegram Bot panel 
 
  ## For Buy Script : Contact Telegram @lukavpn <a href="https://t.me/lukavpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
@@ -50,6 +49,6 @@ src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://i
 
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-SquidVPN%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Copyright%20©-LukaVpn%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
