@@ -1,12 +1,3 @@
-
-
-```
-apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/bracoli/multiport/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
-```
-Teeddysun
-```
-
-
 <h2 align="center">MULTIPORT WEBSOCKET/SSH/SSL/  XRAY</h2>
 
  <h2 align="center"><img src="https://img.shields.io/badge/AutoScript VPN By Kontulku 2.0-blue.svg"></h2>
