@@ -1,14 +1,14 @@
-<h2 align="center">MULTIPORT WEBSOCKET/SSH/SSL/  XRAY</h2>
+<h2 align="center">MULTIPORT XRAY, OPENVPN</h2>
 
- <h2 align="center"><img src="https://img.shields.io/badge/AutoScript VPN By Kontulku 2.0-blue.svg"></h2>
+ <h2 align="center"><img src="https://img.shields.io/badge/AutoScript VPN By KONTULKU -blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
 <p align="center"></p>
 <p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=blue"> </p>
 
-<p align="center"><img src="https://img.shields.io/badge/Service-OpenSSH-success.svg"> <img src="https://img.shields.io/badge/Service-Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-Websocket-success.svg"> <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-SSH/SSL WS-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img
-src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://img.shields.io/badge/Service-Trojan WS-success.svg"> <img src="https://img.shields.io/badge/Service-GRPC-success.svg"> <img src="https://img.shields.io/badge/Service-Shadowsocks-success.svg">
+<p align="center"><img src="https://img.shields.io/badge/Service-OpenVPN-success.svg"> <img src="https://img.shields.io/badge/Service-Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-Websocket-success.svg"> <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img
+src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://img.shields.io/badge/Service-Trojan TCP-success.svg"> <img src="https://img.shields.io/badge/Service-GRPC-success.svg">
 
 ## Commands : <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Shell&message=Bash%20Script&color=lightgray">
 
@@ -44,7 +44,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg"> <img src="https://i
 
  ## Script for Sell Only. Contact owner on Telegram @SandakanVPNTrickster <a href="https://t.me/SandakanVPNTrickster" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## For Buy Script : Contact Telegram @SandakanVPNTrickster <a href="https://t.me/SandakanVPNTrickster" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## For Buy Script : Contact Telegram @lukavpn <a href="https://t.me/lukavpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
 ## Credit :
 
